@@ -1,0 +1,201 @@
+    1  sudo apt install mingw-w64
+    2  sudo apt -install telegram
+    3  apt
+    4  sudo apt-inctall telegram
+    5  sudo apt-install telegram
+    6  sudo apt install telegram
+    7  sudo apt install Telegram
+    8  sudo apt install telegram-desktop
+    9  sudo root
+   10  sudo
+   11  root
+   12  sudo get
+   13  sudo
+   14  sudo apt install mingw
+   15  sudo apt install mingw-64
+   16  sudo apt install opera
+   17  snap install opera
+   18  apt install mingw-w64
+   19  sudo apt upgrade mingw-w64
+   20  snap install opera
+   21  snap onstall clion
+   22  snap install clion
+   23  sudo tar xvzf CLion-*.tar.gz -C /opt/
+   24  sudo -s
+   25  cd opt
+   26  cd /opt
+   27  chmod 0644
+   28  chmod 0644 file
+   29  chmod 0644 /opt
+   30  cd
+   31  chmod 644 /opt
+   32  sudo chmod 644 /opt
+   33  sudo chmod 0644 /opt
+   34  sudo chmod 0757 /opt
+   35  sh /opt/clion-*/bin/clion.sh
+   36  help
+   37  bc 4
+   38  bc clion
+   39  -show
+   40  apt install steam
+   41  sudo apt install steam
+   42  help
+   43  sudo chmod 0757 /opt
+   44  sudo lspci
+   45  sudo apt-get install blueman
+   46  sudo apt-get install bluetooth bluez bluez-tools
+   47  sudo rfkill list 
+   48  sudo rfkill unblock bluetooth
+   49  sudo hciconfig hci0 up
+   50  sudo hcitool scan
+   51  sudo apt install zoom
+   52  sudo apt install zoom-desktop
+   53  sudo systemd-analyze plot>graph.svf
+   54  sudo sustemd-analyze
+   55  sudo systemd-analyze
+   56  sudo systemd-analyze blame
+   57  nano
+   58  ls
+   59  gcc hello, world.c -o 
+   60  sudo apt install gcc
+   61  cd usr/bin
+   62  find -gcc
+   63  find -name gcc
+   64  find -name "*.gcc"
+   65  cd
+   66  find usr/bin -name "*.gcc"
+   67  find /usr/bin -name "*.gcc"
+   68  find usr/bin -name "*.gcc"
+   69  cd usr/bin
+   70  cd /usr/bin
+   71  find -name "*.gcc"
+   72  ls
+   73  pwf
+   74  pfw
+   75  pwd
+   76  whom
+   77  hostname
+   78  whom
+   79  whomi
+   80  man
+   81  man man
+   82  man ls
+   83  sudo whom
+   84  nane
+   85  none
+   86  nano
+   87  nano first
+   88  nano first try nano
+   89  cat first.txt
+   90  cat f1.txt
+   91  man cat
+   92  cat first.txt
+   93  cat first.txthead -n 3 first.txt
+   94  head -n 3 first.txt
+   95  head -n 3 first
+   96  cat first
+   97  tail -n firsst
+   98  tail -n first
+   99  tail 1n first
+  100  tail 1 first
+  101  tail -1 first
+  102  cat networking.sh
+  103  ls
+  104  cd
+  105  cd /
+  106  cd
+  107  cd/Видео
+  108  cd /Видео
+  109  cd /Video
+  110  cd \home\extrabution
+  111  cd /home/extrabution
+  112  cd /home/extrabution/desktop
+  113  cd /home/extrabution/dekstop
+  114  cat first
+  115  greep int first
+  116  grep int first
+  117  grep fi first
+  118  grep (" first
+  119  grep ( first
+  120  grep a first
+  121  man sort
+  122  sort -r first
+  123  sort -d first
+  124  man sort 
+  125  sort -r first > second
+  126  cat second
+  127  cat first
+  128  sort -d first
+  129  man  pipeline
+  130  ls | sort -r | tail -n3
+  131  ls | sort -r first  | tail -3 first
+  132  ls| sort -r first  | tail -3 first
+  133  ls|sort -r first  | tail -3 first
+  134  ls |sort -r first  | tail -3 first
+  135  ls |sort -r first  | tail -3
+  136  ls |sort -r first  | tail -3 second
+  137  ls | sort -r first  | tail -3 first
+  138  ls
+  139  ls | sort -r first
+  140  ls 
+  141  create directory week1
+  142  sudo mkdir/home/extrabution/week1
+  143  sudo mkdir/home/Extrabution/week1
+  144  sudo mkdir /home/Extrabution/week1
+  145  sudo mkdir week1
+  146  ls
+  147  /week1
+  148  cs /week1
+  149  cd /week1
+  150  cs /home/exrabution/week1
+  151  cd /home/exrabution/week1
+  152  cd /week1
+  153  cd week1
+  154  ls 
+  155  history
+  156  cd
+  157  cd /usr/bin
+  158  grep gcc
+  159  sudo apt install gcc
+  160  man gcc
+  161  ls
+  162  echo first
+  163  man echo
+  164  cd `/week1
+ls
+
+kill
+kill
+
+kill
+`
+  165  cd week1
+  166  cd /bin/usr
+  167  cd /usr/bin
+  168  find . -name *.gcc
+  169  ls find . -name *.gcc
+  170  ls -name *.gcc
+  171  ls find . -name gcc
+  172  find . -name gcc
+  173  find . -name *.gcc
+  174  find . -name *gcc
+  175  find . -name *gcc*
+  176  find . -name gcc
+  177  find . -name "*.gcc"
+  178  find -name "*.gcc"
+  179  find -name gcc
+  180  find -name "*.gcc"
+  181  find -name "*.gcc" ./
+  182  find ./ -name "*.gcc" 
+  183  ls
+  184  ls | gcc
+  185  ls | greep gcc
+  186  ls | grep gcc
+  187  find ./ -name "*gcc*" 
+  188  ls |sort -r | grep gcc 
+  189  ls |sort -r | grep gcc > /week1/ex1.txt
+  190  ls |sort -r | grep gcc > ~/week1/ex1.txt
+  191  chmod -R 777  ~/week1
+  192  sudo chmod -R 777  ~/week1
+  193  ls |sort -r | grep gcc > ~/week1/ex1.txt
+  194  history > ~/week1/ex2.txt
